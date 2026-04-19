@@ -1,5 +1,3 @@
-# kubernetes-deployment-lab
-
 # Kubernetes Deployment Lab
 
 Containerized web application deployment using Kubernetes deployments and services.
